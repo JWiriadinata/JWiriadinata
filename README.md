@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jessica, a CS student @ Georgia Tech</h1>
-<h3 align="center"I started out building web apps and have worked my way down the stack, through C and assembly to microcode. I like knowing what’s happening at every layer."</h3>
 
-
-<h3 align="left">Some Languages and Tools I Use:</h3>
+<h3 align="left">Languages and Tools I Use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,bash,linux,react,nodejs,express,mongodb,django,sqlite,git,docker,arduino,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,bash,linux,react,nodejs,express,mongodb,django,git,docker,arduino" />
+</p>
+
+<h3 align="left">Currently Exploring:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sqlite,figma" />
 </p>
 
 <!--
