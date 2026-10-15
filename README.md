@@ -2,12 +2,12 @@
 
 <h3 align="left">Languages and Tools I Use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,bash,linux,react,nodejs,express,mongodb,django,git,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,linux,react,nodejs,express,mongodb,django,git,docker,arduino" />
 </p>
 
 <h3 align="left">Currently Exploring:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sqlite,figma" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sqlite,figma,bash" />
 </p>
 
 <!--
